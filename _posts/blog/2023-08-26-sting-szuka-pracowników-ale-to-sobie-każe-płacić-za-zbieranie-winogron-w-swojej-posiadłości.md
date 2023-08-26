@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Sting szuka pracowników. Ale to sobie każe płacić za zbieranie winogron w
   swojej posiadłości
 date: 2023-08-26T12:46:33.127Z
